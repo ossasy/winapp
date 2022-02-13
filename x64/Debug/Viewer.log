@@ -1,0 +1,3 @@
+﻿  Viewer.cpp
+C:\Users\ossas\Documents\Visual Studio 2022\Projects\Viewer\Viewer\Viewer.cpp(387,39): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Viewer.vcxproj -> C:\Users\ossas\Documents\Visual Studio 2022\Projects\Viewer\x64\Debug\Viewer.exe
